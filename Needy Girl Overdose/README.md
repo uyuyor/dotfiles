@@ -19,7 +19,7 @@ This is a rice i made on KDE, Arch Linux. This is one of my very first rices, an
 <br>
 - Global Theme: https://tinyurl.com/2dn6sbdj
 <br>
-- Cursors: https://tinyurl.com/2dn6sbdj (theme already comes w cursors))
+- Cursors: https://tinyurl.com/2dn6sbdj (theme already comes w cursors)
 <br>
 - Icons: https://tinyurl.com/39sjhkcn | https://store.kde.org/p/1749686
 <br>
