@@ -15,7 +15,7 @@ This is a rice i made on KDE, Arch Linux. This is one of my very first rices, an
 
 <h2 align="center">Dotfiles</h3>
 <div align="center">
-- Wallpaper:# 
+- Wallpaper: https://github.com/uyuyor/dotfiles/blob/main/Needy%20Girl%20Overdose/wallpaper.jpg?raw=true
 <br>
 - Global Theme: https://github.com/Notify-ctrl/Plasma-Overdose
 <br>
