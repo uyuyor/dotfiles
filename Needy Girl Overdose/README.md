@@ -15,13 +15,13 @@ This is a rice i made on KDE, Arch Linux. This is one of my very first rices, an
 
 <h2 align="center">Dotfiles</h3>
 <div align="center">
-- Wallpaper: https://github.com/uyuyor/dotfiles/blob/main/Needy%20Girl%20Overdose/wallpaper.jpg?raw=true
+- Wallpaper: https://tinyurl.com/3ud98dcd
 <br>
-- Global Theme: https://github.com/Notify-ctrl/Plasma-Overdose
+- Global Theme: https://tinyurl.com/2dn6sbdj
 <br>
-- Cursors: https://github.com/Notify-ctrl/Plasma-Overdose (The theme already comes with cursors)
+- Cursors: https://tinyurl.com/2dn6sbdj (The theme already comes with cursors)
 <br>
-- Icons: https://github.com/grassmunk/Platinum9 | https://store.kde.org/p/1749686
+- Icons: https://tinyurl.com/39sjhkcn | https://store.kde.org/p/1749686
 <br>
-- Neofetch config: https://raw.githubusercontent.com/Chick2D/neofetch-themes/main/small/smallfetch.conf
+- Neofetch config: https://tinyurl.com/f6p2ts68
 </div>
