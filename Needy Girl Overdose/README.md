@@ -22,4 +22,6 @@ This is a rice i made on KDE, Arch Linux. This is one of my very first rices, an
 - Cursors: https://github.com/Notify-ctrl/Plasma-Overdose (The theme already comes with cursors)
 <br>
 - Icons: https://github.com/grassmunk/Platinum9 | https://store.kde.org/p/1749686
+<br>
+- Neofetch config: https://raw.githubusercontent.com/Chick2D/neofetch-themes/main/small/smallfetch.conf
 </div>
